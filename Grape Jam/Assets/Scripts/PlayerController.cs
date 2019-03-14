@@ -15,6 +15,10 @@ public class PlayerController : MonoBehaviour
     public float checkRadius;
     public LayerMask whatIsGround;
 
+    private float jumpTimeCounter;
+    public float jumpTime;
+    private bool isJumping;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -37,7 +41,27 @@ public class PlayerController : MonoBehaviour
         //Player can only jump when touching ground
         if (isGrounded && (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)))
         {
+            isJumping = true;
+            jumpTimeCounter = jumpTime;
             rb.velocity = Vector2.up * jumpForce;
+        }
+
+        if(Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W))
+        {
+            if (jumpTimeCounter > 0)
+            {
+                rb.velocity = Vector2.up * jumpForce;
+                jumpTimeCounter -= Time.deltaTime;
+            }
+            else
+            {
+                isJumping = false;
+            }
+        }
+
+        if(Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.W))
+        {
+            isJumping = false;
         }
     }
 }
