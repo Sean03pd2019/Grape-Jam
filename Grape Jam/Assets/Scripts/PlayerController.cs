@@ -46,7 +46,7 @@ public class PlayerController : MonoBehaviour
             rb.velocity = Vector2.up * jumpForce;
         }
 
-        if(Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W))
+        if((Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W)) && isJumping)
         {
             if (jumpTimeCounter > 0)
             {

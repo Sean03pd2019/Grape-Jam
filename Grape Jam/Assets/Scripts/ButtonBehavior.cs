@@ -11,10 +11,12 @@ public class ButtonBehavior : MonoBehaviour
 
     [SerializeField] private PolygonCollider2D[] colliders;
     private int currentColliderIndex = 0;
+    internal bool isPressed;
 
     public void Start()
     {
         colliders[currentColliderIndex].enabled = true;
+        isPressed = false;
     }
 
     public void SetColliderForSprite(int spriteNum)
@@ -33,6 +35,7 @@ public class ButtonBehavior : MonoBehaviour
         if (playerWeight >= necessaryWeight)
         {
             gameObject.GetComponent<SpriteRenderer>().sprite = Pressed;
+            isPressed = true;
             SetColliderForSprite(1);
         }
     }
