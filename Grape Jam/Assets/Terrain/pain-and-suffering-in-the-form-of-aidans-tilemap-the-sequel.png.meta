@@ -14,58 +14,6 @@ TextureImporter:
     21300018: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_9
     21300020: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_10
     21300022: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_11
-    21300024: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_12
-    21300026: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_13
-    21300028: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_14
-    21300030: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_15
-    21300032: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_16
-    21300034: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_17
-    21300036: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_18
-    21300038: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_19
-    21300040: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_20
-    21300042: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_21
-    21300044: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_22
-    21300046: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_23
-    21300048: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_24
-    21300050: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_25
-    21300052: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_26
-    21300054: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_27
-    21300056: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_28
-    21300058: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_29
-    21300060: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_30
-    21300062: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_31
-    21300064: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_32
-    21300066: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_33
-    21300068: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_34
-    21300070: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_35
-    21300072: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_36
-    21300074: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_37
-    21300076: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_38
-    21300078: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_39
-    21300080: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_40
-    21300082: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_41
-    21300084: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_42
-    21300086: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_43
-    21300088: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_44
-    21300090: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_45
-    21300092: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_46
-    21300094: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_47
-    21300096: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_48
-    21300098: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_49
-    21300100: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_50
-    21300102: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_51
-    21300104: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_52
-    21300106: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_53
-    21300108: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_54
-    21300110: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_55
-    21300112: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_56
-    21300114: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_57
-    21300116: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_58
-    21300118: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_59
-    21300120: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_60
-    21300122: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_61
-    21300124: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_62
-    21300126: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_63
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -152,7 +100,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 224
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -162,7 +110,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f6fe095bf443a4dbfb9efb6a4e347e
+      spriteID: 0ed1e858602b3b24c813f2d86c133236
       vertices: []
       indices: 
       edges: []
@@ -172,7 +120,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 224
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -182,7 +130,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14650697e49515644b849fb2bc301122
+      spriteID: 85577c6ce24378441b5a0de436aec874
       vertices: []
       indices: 
       edges: []
@@ -192,7 +140,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 224
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -202,7 +150,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09a8263357835424cb24dc6e583c5786
+      spriteID: 71320425f7c3b9d4fa9ad2949862390a
       vertices: []
       indices: 
       edges: []
@@ -212,7 +160,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 224
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -222,7 +170,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77971c3d74e37c746988b530ab073db8
+      spriteID: 079e9b4c134b6f44d971ce4447c53609
       vertices: []
       indices: 
       edges: []
@@ -231,8 +179,8 @@ TextureImporter:
       name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 224
+        x: 0
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -242,7 +190,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d22a610bb7e82443b14bd65bbb7d3ea
+      spriteID: a60ec088a5def494bb52acac276abe51
       vertices: []
       indices: 
       edges: []
@@ -251,8 +199,8 @@ TextureImporter:
       name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 224
+        x: 32
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -262,7 +210,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d944846e286ed745a0e8e8037e07b26
+      spriteID: 3e7e118e29f120b4e97a9af9a44606b6
       vertices: []
       indices: 
       edges: []
@@ -271,8 +219,8 @@ TextureImporter:
       name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 224
+        x: 64
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -282,7 +230,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 696b4a3254ebf8e47a978877df6a9673
+      spriteID: 8f7da2b1f91acc7428e22dace8af1ea0
       vertices: []
       indices: 
       edges: []
@@ -291,8 +239,8 @@ TextureImporter:
       name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_7
       rect:
         serializedVersion: 2
-        x: 224
-        y: 224
+        x: 96
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -302,7 +250,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13594e5451a4ca14689f2eea7fd89c1e
+      spriteID: 331b87591778f8a46b68dcd99dde7ec7
       vertices: []
       indices: 
       edges: []
@@ -312,7 +260,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -322,7 +270,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efe501d31fd89b140af18afb5d9a5e76
+      spriteID: 26e9bc159d921934c8e3bb8b56ef4395
       vertices: []
       indices: 
       edges: []
@@ -332,7 +280,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 192
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -342,7 +290,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daa16de3f0b6dfb44a60c37e9f844229
+      spriteID: 9ecdf936087c3ea4884c9aae7cc87114
       vertices: []
       indices: 
       edges: []
@@ -352,7 +300,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 192
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -362,7 +310,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55f0b174dbe33bc49af4cabf5369440e
+      spriteID: 16d29b4a10cf82a489cf4b6a90f1e258
       vertices: []
       indices: 
       edges: []
@@ -372,906 +320,6 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 32a5ec27e2d46fa47aea70efe9c9545d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_12
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ccb4890593a2a89449aca532e2cf7a8c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_13
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: baec1eac17c2683499b7558d4ec99aba
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_14
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f73cba1f6489acf4c8fe5b04bafee6f5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_15
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cbdd0e6c13dc55438ae09d1fea80aea
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_16
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0335c501f017d0b468dfdafd1b78a5d8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_17
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6eb31ed287623a24c8990494cb348a2f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_18
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c9318644b3afcd459149da52462d7d9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_19
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12aadf7ed82adce4eb13289f68851ac3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_20
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d51f6c084fcad54bafc9549557a46c4
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_21
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 431d2269de105584091534ab7d33652e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_22
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50b581651d4d2fd4e8a4c2fea5be7500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_23
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ce3445c33ce08945bab27b273e1ed78
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_24
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6492af0dbdcb1ab43a7b3b22fa6157ff
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_25
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00cfa24f03e905a4fa10f699ca8d215e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_26
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ed24c19281429b4c9bf119b2840bd2f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_27
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7581f0451ecbb94ab1c2f230e930177
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_28
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 624d55459df7eb943887b084f489c069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_29
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 700563ddbbce9e34f9545f20891cf98d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_30
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 562e629aa39e6d94891713b10f464cd2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_31
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 277dca9ef4d65ba44b418619d9c2848f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_32
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53e5c68038701d545a94c6dca1d5a1b0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_33
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b2cd4274bbfe67d48a70feb9a04783b9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_34
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9baef1758e43ad149ab94e132fec63d2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_35
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f018694c8598224448ecc34e2e09303e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_36
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02b11b8e5e9733f46b77fcc4ece0ca40
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_37
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71991a08b01d8514ba41e17184650773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_38
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf680b8ce4b9aee418356079c5fbaaee
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_39
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 376d71268a01522429f18d641933d09a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_40
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1cd977e66ccbf742b9f49c1737b892d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_41
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e32dc1308e75fd4b8630b0f2d3f332e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_42
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 294f6fe75fd3d9045aafa65eb80be5ff
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_43
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3518f3582feae74eb0df3407be69121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_44
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 639607879f4c5814e948a735dd55a59d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_45
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66e298fa8195a6746b6abf3852bd9f2b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_46
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ee1428a8cd12df44911e7db41d0fa36
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_47
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd045dad00ebd8c43ab46ebfaa53825b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_48
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9701693898883f40932c11977d179d5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_49
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b84fa56b29ab73047a3392b16a5daa1c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_50
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 275acca3d08856e4baf99cdb48ffe03c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_51
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 776c236641de8c142b0890bc721aeb51
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_52
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53106977ddc4b0941b065eb1d7e18036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_53
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de7268610443f79408f1771e47d59d7b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_54
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c578271a6894cb42b7a8c34573e24d4
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_55
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ac0d5318467fe348a53bf5b268d097b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_56
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
         width: 32
         height: 32
@@ -1282,147 +330,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1e3a9e88ca0bf0499fc2e06b11cc364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_57
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c5bbe143120eaf47ac252f456a03b5e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_58
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a69ebd33c97eb743a123d1b0a8a7953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_59
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95dc85f2193811b45807b0a3bfec8408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_60
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e1bbe10fb5437e45a3290c24c066c9c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_61
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0752875b08f7fa841b991a5b86dd5c9f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_62
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 011bb108407bbb6489decb25c349c569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pain-and-suffering-in-the-form-of-aidans-tilemap-the-sequel_63
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 726a6ddfcc9a92943b98ca9fb05d33bc
+      spriteID: 91a36cccd5eea154ea0e6d3c895b4f57
       vertices: []
       indices: 
       edges: []
@@ -1430,7 +338,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d87db9c768ba1094f954abbd74887f25
+    spriteID: c5298bbd9a265e14b9fe8b8e69596d6c
     vertices: []
     indices: 
     edges: []
