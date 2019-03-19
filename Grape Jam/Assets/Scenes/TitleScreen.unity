@@ -943,7 +943,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLACEHOLDER NAME
+  m_Text: Grape Jam
 --- !u!222 &1839904634
 CanvasRenderer:
   m_ObjectHideFlags: 0
